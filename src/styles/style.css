@@ -1,0 +1,18 @@
+body {
+    background-image: url('https://res.cloudinary.com/ds5jsdvba/image/upload/v1648267756/Peluches/fondo_pizzeria_lnqaht.webp');
+    background-repeat: no-repeat;
+}
+
+.container_card {
+    width: 17rem;
+    height: 32rem;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+.container_card img {
+    width: 15rem;
+    height: 20rem;
+    object-fit: contain;
+
+}
